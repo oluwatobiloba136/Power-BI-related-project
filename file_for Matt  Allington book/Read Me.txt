@@ -1,0 +1,6 @@
+If you have problems importing the data from Access, you can read my blog article here
+to get help on how to resolve this issue.
+https://exceleratorbi.com.au/64-bit-power-bi-desktop-32-bit-office-can-do/
+
+If you still have problems, you can import the tables of data you need directly 
+from the Excel file provided instead of importing from Access.
